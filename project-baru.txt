@@ -1,0 +1,3 @@
+RENCANA PROJECT BARU
+- Memahami materi javascript secara mendalam
+- Membuat sebuah web yang akan berguna untuk banyak orang.
