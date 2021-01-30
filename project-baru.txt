@@ -1,3 +1,5 @@
 RENCANA PROJECT BARU
 - Memahami materi javascript secara mendalam
+  * memahami framework yang dipakai di javascript
+  * menyelesaikan materi tentang percabangan dll.
 - Membuat sebuah web yang akan berguna untuk banyak orang.
